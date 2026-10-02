@@ -1,0 +1,1 @@
+An end-to-end Machine Learning pipeline developed to predict whether an online visitor will make a purchase during a browsing session. Using a dataset of 12,330 user sessions, this project implements data preprocessing, handling of class imbalance, Decision Tree pruning, and hyperparameter tuning to optimize predictive performance.   
