@@ -20,11 +20,11 @@ Using a dataset of "12,330 unique sessions" collected over a year, this project 
 ## Pipeline Overview
 
 --- Python
-import pandas as pd
-from sklearn.model_selection import train_test_split, GridSearchCV
-from sklearn.compose import ColumnTransformer
-from sklearn.preprocessing import StandardScaler, OneHotEncoder
-from sklearn.pipeline import Pipeline
+import pandas as pd,
+from sklearn.model_selection import train_test_split, GridSearchCV,
+from sklearn.compose import ColumnTransformer,
+from sklearn.preprocessing import StandardScaler, OneHotEncoder,
+from sklearn.pipeline import Pipeline,
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import f1_score, classification_report, confusion_matrix
 
